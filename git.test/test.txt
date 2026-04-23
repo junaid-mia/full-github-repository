@@ -1,0 +1,22 @@
+git --version
+git config user.gmail
+git config user.name
+git config --global user.name "junaid-mia"
+git config --global user.name "itjunaid2@gmail.com"
+ls -a
+git add <file>
+git add. <all file>
+git status 
+git diff
+git restore 
+git commit -m "inital commit"
+git log
+git log --online
+git reset -soft head
+git checkout
+git remote add origin
+git remote -v
+git add . 
+git add commit -m "fourth commit"
+git push
+

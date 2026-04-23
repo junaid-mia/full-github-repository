@@ -1,0 +1,6 @@
+{
+    "git.decorations.enabled": true,
+    "git.enabled": true,
+    "git.discardUntrackedChangesToTrash": true,
+    "liveServer.settings.CustomBrowser": "chrome"
+}
