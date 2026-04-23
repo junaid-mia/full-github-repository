@@ -16,6 +16,7 @@ git reset -soft head
 git checkout
 git remote add origin
 git remote -v
+git init
 git add . 
 git add commit -m "fourth commit"
 git push
